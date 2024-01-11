@@ -1,0 +1,5 @@
+#ignore environment key
+.env
+
+#ignore bytecode in python
+__pycache__
